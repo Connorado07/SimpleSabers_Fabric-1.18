@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "simplesabers:blue_ore",
+    "simplesabers:green_ore",
+    "simplesabers:red_ore",
+    "simplesabers:purple_ore",
+    "simplesabers:white_ore",
+    "simplesabers:yellow_ore"
+  ]
+}

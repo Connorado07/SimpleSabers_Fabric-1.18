@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "dnd",
+    "aba"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "d": {
+      "item": "minecraft:dragon_breath"
+    },
+	 "a": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "b": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "result": {
+    "item": "simplesabers:quadernium_ingot",
+    "count": 2
+  }
+}

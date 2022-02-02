@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "qgq",
+    "ici",
+    "iii"
+  ],
+  "key": {
+    "q": {
+      "item": "simplesabers:quadernium_ingot"
+    },
+	 "g": {
+      "item": "minecraft:glass"
+    },
+    "c": {
+      "item": "simplesabers:focus_crystal"
+	},
+    "i": {
+      "item": "simplesabers:durasteel_ingot"
+    }
+  },
+  "result": {
+    "item": "simplesabers:top_saber_part",
+    "count": 1
+  }
+}

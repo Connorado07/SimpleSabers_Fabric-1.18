@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "C",
+    "B"
+  ],
+  "key": {
+    "T": {
+      "item": "simplesabers:top_saber_part"
+    },
+    "C": {
+      "item": "simplesabers:kyber_crystal_red"
+    },
+    "B": {
+      "item": "simplesabers:bottom_saber_part"
+    }
+  },
+  "result": {
+    "item": "simplesabers:red_lightsaber",
+    "count": 1
+  }
+}

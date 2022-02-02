@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_ingot"
+  },
+  "addition": {
+    "item": "simplesabers:plastanium_ball"
+  },
+  "result": {
+    "item": "simplesabers:plastanium_ingot"
+  }
+}

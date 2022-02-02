@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "GDG",
+    "PPP"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "P": {
+      "item": "simplesabers:plastanium_ingot"
+    },
+	 "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "simplesabers:focus_crystal",
+    "count": 1
+  }
+}

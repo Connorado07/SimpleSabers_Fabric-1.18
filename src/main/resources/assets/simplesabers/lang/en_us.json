@@ -1,0 +1,32 @@
+{
+  "itemGroup.simplesabers.general": "Simple Sabers",
+
+  "item.simplesabers.kyber_crystal_red": "Red Kyber Crystal",
+  "item.simplesabers.kyber_crystal_blue": "Blue Kyber Crystal",
+  "item.simplesabers.kyber_crystal_green": "Green Kyber Crystal",
+  "item.simplesabers.kyber_crystal_purple": "Purple Kyber Crystal",
+  "item.simplesabers.kyber_crystal_yellow": "Yellow Kyber Crystal",
+  "item.simplesabers.kyber_crystal_white": "White Kyber Crystal",
+
+  "item.simplesabers.durasteel_ingot": "Durasteel Ingot",
+  "item.simplesabers.plastanium_ingot": "Plastanium Ingot",
+  "item.simplesabers.quadernium_ingot": "Quadernium Ingot",
+  "item.simplesabers.focus_crystal": "Focusing Crystal",
+  "item.simplesabers.bottom_saber_part": "Lower Saber Peice",
+  "item.simplesabers.top_saber_part": "Upper Saber Peice",
+  "item.simplesabers.plastanium_ball": "Plastanium Ball",
+
+  "item.simplesabers.red_lightsaber": "Red Lightsaber",
+  "item.simplesabers.blue_lightsaber": "Blue Lightsaber",
+  "item.simplesabers.green_lightsaber": "Green Lightsaber",
+  "item.simplesabers.purple_lightsaber": "Purple Lightsaber",
+  "item.simplesabers.yellow_lightsaber": "Yellow Lightsaber",
+  "item.simplesabers.white_lightsaber": "White Lightsaber",
+
+  "block.simplesabers.red_ore": "Red Kyber Crystal Ore",
+  "block.simplesabers.blue_ore": "Blue Kyber Crystal Ore",
+  "block.simplesabers.green_ore": "Green Kyber Crystal Ore",
+  "block.simplesabers.purple_ore": "Purple Kyber Crystal Ore",
+  "block.simplesabers.yellow_ore": "Yellow Kyber Crystal Ore",
+  "block.simplesabers.white_ore": "White Kyber Crystal Ore"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iDi",
+    "iRi",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "simplesabers:durasteel_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "simplesabers:bottom_saber_part",
+    "count": 1
+  }
+}
