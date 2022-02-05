@@ -1,0 +1,10 @@
+{
+  "music_disc.imperial_march": {
+    "sounds": [
+      {
+        "name": "simplesabers:records/imperial_march",
+        "stream": true
+      }
+    ]
+  }
+}

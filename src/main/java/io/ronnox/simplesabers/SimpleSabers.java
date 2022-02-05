@@ -1,5 +1,7 @@
 package io.ronnox.simplesabers;
 
+import io.ronnox.simplesabers.MusicDisks.Items;
+import io.ronnox.simplesabers.MusicDisks.Sounds;
 import io.ronnox.simplesabers.tools.LightsaberToolMaterial;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.biome.v1.BiomeModifications;
@@ -30,6 +32,7 @@ import org.slf4j.LoggerFactory;
 
 public class SimpleSabers implements ModInitializer {
 	public static final Logger LOGGER = LoggerFactory.getLogger("simplesabers");
+	public static final String MOD_ID = "simplesabers";
 
 	//ItemGroup(s)
 	public static final ItemGroup SIMPLESABERS_GROUP = FabricItemGroupBuilder.build(
@@ -150,6 +153,9 @@ public class SimpleSabers implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		Items.init();
+		Sounds.init();
+
 		Registry.register(Registry.ITEM, new Identifier("simplesabers", "kyber_crystal_red"), KYBER_CRYSTAL_RED);
 		Registry.register(Registry.ITEM, new Identifier("simplesabers", "kyber_crystal_blue"), KYBER_CRYSTAL_BLUE);
 		Registry.register(Registry.ITEM, new Identifier("simplesabers", "kyber_crystal_green"), KYBER_CRYSTAL_GREEN);

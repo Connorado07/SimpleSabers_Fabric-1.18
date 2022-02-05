@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "simplesabers:item/music_disc_imperial_march"
+  }
+}
