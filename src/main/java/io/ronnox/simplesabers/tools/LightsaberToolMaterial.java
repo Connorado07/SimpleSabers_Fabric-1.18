@@ -9,17 +9,17 @@ public class LightsaberToolMaterial implements ToolMaterial {
 
     @Override
     public int getDurability() {
-        return 12387;
+        return 12300;
     }
 
     @Override
     public float getMiningSpeedMultiplier() {
-        return 6.0F;
+        return 7.0F;
     }
 
     @Override
     public float getAttackDamage() {
-        return 3.0F;
+        return 6.0F;
     }
 
     @Override
@@ -29,11 +29,11 @@ public class LightsaberToolMaterial implements ToolMaterial {
 
     @Override
     public int getEnchantability() {
-        return 2;
+        return 4;
     }
 
     @Override
     public Ingredient getRepairIngredient() {
-        return Ingredient.ofItems(Items.PHANTOM_MEMBRANE);
+        return Ingredient.ofItems(Items.RAW_IRON);
     }
 }
